@@ -1,0 +1,57 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+AB119196.1	label_background	#AAAAFF
+NR_027561.1	label_background	#AAAAFF
+NR_117077.1	label_background	#AAAAFF
+NR_152704.1	label_background	#CCCCFF
+NR_036978.1	label_background	#2244FF
+NR_117027.1	label_background	#2244FF
+NR_025631.1	label_background	#002299
+NR_113302.1	label_background	#002299
+NR_116473.1	label_background	#002299
+NR_041028.1	label_background	#002299
+NR_144703.1	label_background	#002299
+NR_149206.1	label_background	#002299
+NR_029200.1	label_background	#3333DD
+NR_122098.1	label_background	#3333DD
+NR_134225.1	label_background	#3333DD
+D25311.2	label_background	#3333DD
+NR_113322.1	label_background	#999999
+AB641398.1	label_background	#AAAAAA
+NR_117540.1	label_background	#5555AA
+NR_026067.1	label_background	#5555AA
+NR_109490.1	label_background	#4488CC
+NR_043785.1	label_background	#4488CC
+NR_116437.1	label_background	#4488CC
+NR_134158.1	label_background	#AAAAAA
+NR_042378.1	label_background	#447744
+NR_043040.1	label_background	#447744
+NR_026107.1	label_background	#FFCCCC
+NR_025849.1	label_background	#FFCCCC
+NR_024738.1	label_background	#FFCCCC
+NR_027591.1	label_background	#FFCCCC
+NR_026118.1	label_background	#FFCCCC
+NR_026513.1	label_background	#FFCCCC
+NR_036787.1	label_background	#FFCCCC
+NR_024773.1	label_background	#FFCCCC
+MW326760.1	label_background	#FFCCCC
+NR_104544.1	label_background	#FFCCCC
+NR_042845.1	label_background	#FF9999
+NR_119099.1	label_background	#FF9999
+NR_043929.1	label_background	#FF9999
+MG271952.1	label_background	#FF6666
+NR_025836.1	label_background	#FF6666
+NR_074249.1	label_background	#FF6666
+NR_116278.1	label_background	#DD00FF
+NR_043857.1	label_background	#DD00FF
+NR_104206.1	label_background	#DD00FF
+KM925003.2	label_background	#FF22CC
+NR_117230.1	label_background	#FF22CC
+NR_116415.1	label_background	#FF22CC
+NR_117828.1	label_background	#FF22CC
+NR_044902.1	label_background	#FF22CC
+NR_113762.1	label_background	#FF22CC
+NR_116171.1	label_background	#FF22CC
+NR_112186.1	label_background	#55AA55
+
